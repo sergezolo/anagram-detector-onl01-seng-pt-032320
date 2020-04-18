@@ -7,7 +7,9 @@ class Anagram
   end
   
   def find_match
-    
+    @words.split.each do
+      
+      
   end
   
   
